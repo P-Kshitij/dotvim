@@ -1,5 +1,7 @@
 # Vim configuration files and plugins
 
+For complete instructions go [here](http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/).
+
 Installation:
 
     git clone git://github.com/P-Kshitij/dotvim.git ~/.vim
